@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FootbalGamePanel/static/css/main.eda4c0f7.css",
-    "main.js": "/FootbalGamePanel/static/js/main.a893ba8f.js",
+    "main.js": "/FootbalGamePanel/static/js/main.d95f0ed8.js",
     "static/media/game-logo.png": "/FootbalGamePanel/static/media/game-logo.47fa4443a2c5cccef8e0.png",
     "index.html": "/FootbalGamePanel/index.html",
     "main.eda4c0f7.css.map": "/FootbalGamePanel/static/css/main.eda4c0f7.css.map",
-    "main.a893ba8f.js.map": "/FootbalGamePanel/static/js/main.a893ba8f.js.map"
+    "main.d95f0ed8.js.map": "/FootbalGamePanel/static/js/main.d95f0ed8.js.map"
   },
   "entrypoints": [
     "static/css/main.eda4c0f7.css",
-    "static/js/main.a893ba8f.js"
+    "static/js/main.d95f0ed8.js"
   ]
 }
